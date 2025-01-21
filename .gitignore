@@ -1,0 +1,20 @@
+# Archivos y carpetas de Unity que no deberían versionarse
+
+# Carpetas generadas automáticamente
+Library/
+Temp/
+Obj/
+Logs/
+Builds/
+
+# Archivos de usuario
+*.userprefs
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Otros temporales y backups
+*.tmp
+*.bak
+*.swp
