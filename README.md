@@ -1,2 +1,3 @@
 # Submission2
 LL2 Assignament - Interactive Menu on Unity
+This project aimed to delve into and become familiar with the Unity engine and its elements and folders. Specifically, we were tasked with creating the main menu of a video game, incorporating basic buttons (Play/New Game/Load, Options/Settings, Credits, Quit) and some interactions through UXML, USS coding or  using the UI Builder. These interactions included changes in the appearance of visual elements when hovering over them with the mouse, clicking on them, programming the disappearance of certain windows and the appearance of others, or triggering specific actions upon selecting an option.
